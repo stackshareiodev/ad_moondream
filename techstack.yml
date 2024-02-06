@@ -1,0 +1,70 @@
+repo_name: stackshareiodev/ad_moondream
+report_id: 91e093f8fe27148433de6c62799502b9
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-06T11:26:27+00:00'
+requested_by: vikhyat
+provider: github
+branch: main
+detected_tools_count: 5
+tools:
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/stackshareiodev/ad_moondream
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/stackshareiodev/ad_moondream
+  detection_source: Repo Metadata
+- name: Pillow
+  description: Python Imaging Library
+  website_url: https://python-pillow.github.io/
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Image Processing and Management
+  image_url: https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg
+  detection_source_url: https://github.com/stackshareiodev/ad_moondream/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: vik
+  last_updated_on: 2023-12-30 00:57:42.000000000 Z
+- name: Torch
+  description: An open-source machine learning library and a script language based
+    on the Lua programming language
+  website_url: http://torch.ch/
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Machine Learning Tools
+  image_url: https://img.stackshare.io/service/4475/hpYQzO_U_400x400.png
+  detection_source_url: https://github.com/stackshareiodev/ad_moondream/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: vik
+  last_updated_on: 2023-12-30 00:57:42.000000000 Z
+- name: torchvision
+  description: Image and video datasets and models for torch deep learning
+  package_url: https://pypi.org/project/torchvision
+  version: 0.16.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20377/default_86c41789cbd5dc6b872b122419740f58f5d2f18a.png
+  detection_source_url: https://github.com/stackshareiodev/ad_moondream/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: vik
+  last_updated_on: 2023-12-30 00:57:42.000000000 Z
